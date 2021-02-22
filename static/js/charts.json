@@ -1,0 +1,5 @@
+{
+    "names":["Average Home Values by City (Zillow)", "Median Household Income by City (Zillow Home Values in blue)"],
+    "link": ["https://public.tableau.com/views/Final_Project_16130202101520/AverageHomeValuesbyCityZillow?:language=en&:display_count=y&:showVizHome=no", "https://public.tableau.com/views/Final_Project_16130202101520/MedianHouseholdIncomebyCity?:language=en&:display_count=y&:showVizHome=no"]
+
+    // Replace origin with ":showVizHome=no"

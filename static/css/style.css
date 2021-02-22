@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image:  url("../images/banner.jpg");
+    text-shadow:  blur-radius color|black|initial|inherit;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-image: url("../images/background.png");
+    background-size: cover;
+    font-family: fantasy;
+    text-align: center;
+
+div {
+    text-align:center;
+    width:100%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+iframe{
+    width: 1000px;
+}
